@@ -1,6 +1,6 @@
 body{
-    margin:0;
-    padding: 0;
+    margin-top:-20px;
+    /* padding: 0;  */
     background: orange;
 }
 
@@ -13,7 +13,7 @@ div{
     justify-content: center
 }
 
-div *{
-    margin: 10px;
-}
+/* div *{
+    margin: 5px;
+} */
 
