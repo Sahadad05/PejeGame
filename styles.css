@@ -3,10 +3,17 @@ body{
     padding: 0;
     background: orange;
 }
-section{
+
+div{
+    background-image: url("./pelea.png");
+    background-repeat: no-repeat;
+    background-position: center;
     display: flex;
-    justify-content: center;
     align-items: center;
-    height: 100vh;
-    flex-direction: column;
+    justify-content: center
 }
+
+div *{
+    margin: 10px;
+}
+
